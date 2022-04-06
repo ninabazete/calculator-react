@@ -28,3 +28,18 @@ In my first React project, I chose to develop the calculator for specific reason
 * *UX 90' Design;*
 * *Responsive;*
 * *with Accessibility*
+
+
+>## Technology Development
+
+* JSX
+* React
+* JavaScript 
+* HTML5 
+* CSS3 - Flexbox
+
+>## Author
+*Janaina Bazete (My nickname is Nina).*
+
+**We can talk in my <a href="https://www.linkedin.com/in/janainabazete/">LinkedIn</a>**
+
